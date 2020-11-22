@@ -12,7 +12,7 @@ utana lehet beleonteni a kovetkezo etapot.
 
 - 170g 50% kovasz (100% bl80)
 - 0.5 tojassargaja
-- 12.5 tej
+- 12.5g tej
 
 alaposan osszekeverni, ket egyforma golyot formazni, hutoztetni egy orat, hogy
 konnyebben lehessen formazni kesobb.
@@ -23,7 +23,7 @@ konnyebben lehessen formazni kesobb.
 
 - 250g dio (80% daralt, 20% durvara darabolt)
 - 50g mazsola
-- 1/2 ek fahej
+- 1/4 ek fahej
 - 1 csomag vaniliascukor
 - 1 citrom es 0.5 narancs heja
 
@@ -38,7 +38,8 @@ lassu tuzon felforralni amig a cukor el nem olvad.
 ### elkeszites
 
 a szaraz hozzavalokhoz annyi cukorszirupot keverni, amig az egy homogen
-masszava ossze nem all.
+masszava ossze nem all. nem biztos, hogy kell ra az osszes szirup - ha mar
+osszeall a toltelek akkor kesz.
 
 ## osszeallitas
 
