@@ -2,7 +2,7 @@
 
 - 250g bl80
 - 125g vaj
-- 5g so
+- 8g so
 
 vajat elmorzsolni liszttel es soval.
 
@@ -13,9 +13,9 @@ vajat elmorzsolni liszttel es soval.
 
 osszekeverni es hozzaadni a fenti keverekhez, alaposan kidagasztani.
 
-- 3ek zsir
+- 1.5ek zsir
 
-elkeszult tesztat ujjnyi vastagon teglalapra nyujtani, masfel ek zsirral
+elkeszult tesztat ujjnyi vastagon teglalapra nyujtani, egy ek zsirral
 a tesztat megkenni majd felbehajtani. ezt ujra megkenni es masik iranybol is
 athajtani, majd megegyszer ismetelni.
 
@@ -26,7 +26,10 @@ orankent (kozben tesztat mindig 90 fokkal forgatni).
 
 - 100g sajt
 
-2-3 centi vastagra nyujtani, tetejet kessel racsozni, tojassal lekenni es
-sajttal alaposan megszorni. 
+2-3 centi vastagra nyujtani,tetejet kessel racsozni, szaggatni, tojassal lekenni
+es sajttal alaposan megszorni.
+
+> :warning: 12-15 perc keves volt, 20-25 lehetett. meg kellene merni, esetleg
+> raprobalni legkeveressel / magasabb hofokkal
 
 szaggatas utan 180 fokos sutoben 12-15 perc.
