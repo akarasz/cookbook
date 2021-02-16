@@ -13,6 +13,9 @@ vajat elmorzsolni liszttel es soval.
 
 osszekeverni es hozzaadni a fenti keverekhez, alaposan kidagasztani.
 
+> :warning: meg kell probalni kicsit tobb zsirral - igy is finom volt, de nem
+> volt annyira reteges
+
 > a zsirt erdemes kimerni elore, szobahomersekleten kenhetore olvad
 
 - 1.5ek zsir
@@ -33,5 +36,8 @@ orankent (kozben tesztat mindig 90 fokkal forgatni).
 
 2-3 centi vastagra nyujtani, tetejet kessel racsozni, szaggatni, tojassal
 lekenni es sajttal alaposan megszorni.
+
+> minel kisebb formaval szaggatni, kevesebb lesz a maradek teszta. nem sikerult
+> masodjara olyan szepen gyurni/nyujtani, mint kozvetlenul a hutobol kiveve
 
 szaggatas utan 180 fokos sutoben 28-30 perc.
