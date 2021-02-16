@@ -34,7 +34,4 @@ orankent (kozben tesztat mindig 90 fokkal forgatni).
 2-3 centi vastagra nyujtani, tetejet kessel racsozni, szaggatni, tojassal
 lekenni es sajttal alaposan megszorni.
 
-> :warning: 12-15 perc keves volt, 20-25 lehetett. meg kellene merni, esetleg
-> raprobalni legkeveressel / magasabb hofokkal
-
-szaggatas utan 180 fokos sutoben 12-15 perc.
+szaggatas utan 180 fokos sutoben 28-30 perc.
